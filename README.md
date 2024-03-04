@@ -26,7 +26,9 @@ Zokou is a multi-device bot designed to enhance your WhatsApp conversations with
 
 2. Obtain a bot session: 
 
-   [Session](https://zokouscan.onrender.com)
+   [Session-1](https://zokouscan.onrender.com) ; <br>
+
+   [session-2](https://zokou-qr-509e45b56ca5.herokuapp.com/)
 
 3. Deploy
    - **Heroku Deployment:**
@@ -35,7 +37,13 @@ Zokou is a multi-device bot designed to enhance your WhatsApp conversations with
 
 ## Contributions
 
-Contributions to Zokou are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to Zokou are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+
+   thinks to these persons ;
+
+   **Fatao** who added commands (Fancy, gpt, dalle, apk); <br>
+
+   **CrazyPrice** who hosted a second website for the session_id;
 
 ## License
 
